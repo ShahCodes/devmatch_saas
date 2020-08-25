@@ -32,6 +32,26 @@ h1,h2,h3 {
   border: none;
 }
 
+.navbar-default .navbar-brand {
+  color: white;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+//DevMatch hyperlink on nav bar hover color
+.navbar-default .navbar-brand:hover {
+  color: white;
+  opacity: 0.75;
+}
+
+//About hyperlink on nav bar hover color
+.navbar-default .navbar-nav > li > a:hover {
+  color: white;
+  opacity: 0.75;
+}
+
 .h1homebold {
   font-weight: bold;
 }
