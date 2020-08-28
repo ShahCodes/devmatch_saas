@@ -50,7 +50,7 @@ h1,h2,h3 {
 .navbar-default .navbar-nav > li > a {
   color: white;
   font-weight: bold;
-  // <- Hyperlink on nav bar hover color  ->
+  //<- Hyperlink on nav bar hover color  ->
   &:hover {
     color: white;
     opacity: 0.75;
