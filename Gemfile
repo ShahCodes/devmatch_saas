@@ -35,6 +35,12 @@ gem 'bootsnap', '>= 1.4.2', require: false
 # User Twitter bootstrap library for frontend UI and Layout
 gem 'bootstrap-sass', '3.4.1'
 
+# For positioning
+gem 'popper_js', '1.16'
+
+# Ruby library for compiling and serving web assets. Organize Javascript files
+gem 'sprockets-rails', '3.2.1'
+
 # Use Font Awesome Sass Gem for adding icons
 gem 'font-awesome-sass', '5.13'
 gem 'font-awesome-rails', '4.7.0.5'
